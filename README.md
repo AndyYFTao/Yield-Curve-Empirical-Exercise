@@ -1,3 +1,4 @@
-### Treasury Yield Curve Bootstrapping
-
-Please refer to the corresponding article on http://www.quantandfinancial.com/2012/08/yield-curve-bootstrapping.html
+### Treasury Yield Curve Exercise
+* Assignment 1 of MAT1856/APM466: Mathematical Finance at University of Toronto
+* Generated yield curves, spot curves, and forward curves by bootstrapping Canadian Government Bonds data
+* Interest rates are further analyzed using Principal Component Analysis
